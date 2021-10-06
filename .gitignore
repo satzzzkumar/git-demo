@@ -1,4 +1,5 @@
 boot.php
+.gitconfig
 index.php
 install.php
 /config/*
